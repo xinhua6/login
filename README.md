@@ -6,10 +6,10 @@ vue为前台框架
 
 
 nodejs为后台
-使用框架express
+使用框架express+mongoose
 运行命令：npm run start
 
-同时运行自己电脑上的数据库
+同时运行自己电脑上的数据库，这里我用的是MongoDB
 
 实现功能：
 1.路由守卫，只有登录成功才可以进入首页
